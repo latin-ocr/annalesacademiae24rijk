@@ -1,0 +1,46 @@
+RESPONSIO AD 'QUAESTIONEM ASTRON'OMICAM. 19
+
+ῃ. Harum functionum hujus vel illius integratione, tempus transitus prorsus in-
+notescet, sed variae analyseos methodi, quibus in hunc finem usus sum, nullum auxi-
+lium mihi praebuerunt; at, quamvis ipse sentiam, me hac in re ingenio deficere, tamen ex
+multis tentaminibus‚ quae institui, atque ex commentationibus virorum illustrium, quas
+consuitii, cogitatio orta est, qua dubitarem aliquantum , nullos adhuc repertos esse Ana-
+‘lyseos fontes ‚ ·e quibus talia hauriantur , quae nostras differentiales functiones apto et ge-
+netaii modo integras reddant. Nam ex ipsarum functionum attenta intuitione, clai-Issime
+patet, eas non pertinere ad tales functionum formas, quae praebeant integralem terminis
+definitamg, neque ullo modo talem formam illis induere potui, quae huic proposito satis·
+
+faceret: quod maxime oriri videbatur e functione radicati V(1 - πέδας. φ Cos.rp -Ι-ἷέ) ,
+
+in denominatoribus praesenti3 revera talem quidem instituere possumus transformatio-
+'nem, qua quantitates irradicales abeuntg. sed ipsi denominatores, quum ne quidem in
+quadrat—um quoddam converti possint , nisi mutentur quantitatum constantium rationes, ip·
+sius integrationis difficultates haud leva-ntur.
+
+22. Quodsi nullo modo functionem quamdam differentialem , ad formam definitam integrare
+possimus, alia adhibetur methodus, scilicet, reductio in seriem convergentem‚ cujus
+singuli termini ad integralem, forma cognitam, pertinent3 eaque methodus cum in casibus
+quampluribus summopere valeat, institui etiam hanc regulam in functiones superiores; sed
+haud maiori fructu. Series enim adeo erant d1ffic11es1n applicatione, adeo lente converge.
+bant, ut nullum certum judicium praeberent , quo de terminorum posteriorum magna con-
+vergentia non erat dubitandum: ut itaque tandem constituerim, curas omittere et e certa·
+mine decedere potius, quam aut opuS, viribus humanis non perficiendum, aggredi, aut
+imperfectis et invalidis armis in arenam descendere· eoque magis hoc propositum valere
+, coepit, quandoquidem, etiamsi seties vei maxime conversissent, determinatio valorum
+
+φ et ψ extremo tempore, dubium aliquod relinqueret. Valor enim radii vectoris, finito
+tempore, (qui radius, aeque atque valores φ et ψ postulantur, ut integralis limites cog.
+noscantur‚) sponte innotescit, nam corpore in telluris superficiem pervento, distat ab
+ejus centro radium ipsius telluris, ergo hoc integralis limite est r z a; sed quinam
+sint valores angulorum φ et ψ eodem limite, prorsus fere latet, et non prius inno·
+tescit, quam integrales functionum (7), (8) et (9) inventae sunt. Probabile qui.
+¹ dem est , hosce angulos in temporis fine esse nullos, id est, corpus jamjam versari in
+linea, centra telluris lunaeque jungenti ‚ antequam in telluris superficiem pervenerit,
+
+{ed certum judicium α priori non datur.
+j- si anguli φ et ψ in functione (7) non adessent, ideoque haec functio a sola variabi-
+’ li r eJusque differentialibr penderet , accuratissime tempus t determinaretur, ope methodi
+’ --integralium definitarum , (quam simili in casu praescribit Ρ 01 s son , in Traite‘ de Mec.
+Tom. 1. pag. 345.„) qua differentiales fiunt differentiae, et integratio fit sommatio sive
+C 2 com·
+
